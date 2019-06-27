@@ -6,3 +6,4 @@ For details of my techical blogs and other projects please refer to https://navn
 # Contents
   * ## Machine Learning
   * ## Data Analysis and Visualisation
+    o **Exploratory data Analysis on Haberman Survival Data**
