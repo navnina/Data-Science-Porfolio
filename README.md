@@ -6,4 +6,4 @@ For details of my techical blogs and other projects please refer to https://navn
 # Contents
   * ### Machine Learning
   * ### Data Analysis and Visualisation
-    o [**Exploratory data Analysis on Haberman Survival Data**](https://github.com/navnina/Data-Science-Portolio/blob/master/Haberman_survival_data/Exploratory_Data_Analysis_Haberman_survival_data.ipynb)
+    o [**Exploratory data Analysis on Haberman Survival Data**](https://github.com/navnina/Data-Science-Portolio/blob/master/Haberman_survival_data/Exploratory_Data_Analysis_Haberman_survival_data.ipynb): Univariate and Multivariate Analysis of data using matplotlib and seaborn statistical data visualization tools
