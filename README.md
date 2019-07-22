@@ -5,7 +5,7 @@ Repository containing portfolio of data science and machine learning projects.
   * ### Machine Learning
     o [**Natural Language Processing**](https://github.com/navnina/Data-Science-Portolio/blob/master/DonorsChooseData/DonorsChooseData.ipynb): Choosing education projects for donations, performing text data cleaning; semantic analysis with Word2vec, TFIDF, bigrams, wordcloud; Modelling with Decision Trees and Logistic Regression.
     
-    o [**Ensemble Modelling**](https://github.com/navnina/Data-Science-Portolio/blob/master/DonorsChooseData/DonorsChooseData.ipynb): Creative feature engineering and advance regression techniques such as Random Forest, Gradient Boosting to predict house prices.
+    o [**Ensemble Modelling**](https://github.com/navnina/Data-Science-Porfolio/blob/master/Advance-Regression-techniques/HousePrice.ipynb): Creative feature engineering and advance regression techniques such as Random Forest, Gradient Boosting to predict house prices.
     
     o [**Heart Disease data**](https://github.com/navnina/Data-Science-Portolio/blob/master/heartdisease/heartdisease.ipynb): Explaining bias variance trade off, working with the problem of overfitting in small datasets. Comparision of classification models such as logistic regression, K nearest neighbours, Naive bayes, Support vector machines etc.
     
