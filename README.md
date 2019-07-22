@@ -11,4 +11,4 @@ Repository containing portfolio of data science and machine learning projects.
     o [**Exploratory data Analysis on Haberman Survival Data**](https://github.com/navnina/Data-Science-Portolio/blob/master/Haberman_survival_data/Exploratory_Data_Analysis_Haberman_survival_data.ipynb): Univariate and Multivariate Analysis of data using matplotlib and seaborn statistical data visualization tools
 
 * ### Tableau Visualisations
-    o [**Spread distribution of Tuberculosis worldwide**](https://github.com/navnina/Data-Science-Portolio/blob/master/Haberman_survival_data/Exploratory_Data_Analysis_Haberman_survival_data.ipynb): Global distribution of Tuberculosis (TB) and its correlation with HIV
+    o [**Spread distribution of Tuberculosis worldwide**](https://github.com/navnina/Data-Science-Porfolio/tree/master/Tableau/Dashboards): Global distribution of Tuberculosis (TB) and its correlation with HIV
