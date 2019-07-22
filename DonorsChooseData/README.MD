@@ -1,4 +1,9 @@
-# DonorsChoose Data
+## Practice Skills
+    o Natural Language Processing : Semantic anlaysis using Word2vec, TFIDF, bigrams; Text Data cleaning using lemmantization, stemming, tokenisation, wordcloud
+    o Advance classification adgorithm : Decison Trees, Logistic Regression
+
+
+## Acknowlegment to DonorsChoose Data
 DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it's approved to be posted on the DonorsChoose.org website.
 
 Next year, DonorsChoose.org expects to receive close to 500,000 project proposals. As a result, there are three main problems they need to solve:
