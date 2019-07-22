@@ -1,6 +1,6 @@
 ## Practice Skills
-    o Natural Language Processing : Semantic anlaysis using Word2vec, TFIDF, bigrams; Text Data cleaning using lemmantization, stemming, tokenisation, wordcloud
-    o Advance classification adgorithm : Decison Trees, Logistic Regression
+   o Natural Language Processing : Semantic anlaysis using Word2vec, TFIDF, bigrams; Text Data cleaning using lemmantization, stemming, tokenisation, wordcloud
+   o Advance classification adgorithm : Decison Trees, Logistic Regression
 
 
 ## Acknowlegment to DonorsChoose Data
