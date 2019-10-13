@@ -1,7 +1,7 @@
 
 # Clustering to Classification
 
-The aim or task of this coding challenge is to create a pipeline from clusterring to classification. We use unlabeled dataset and utilise unsupervised clustering algorithm to label the data and then apply supervised classification models on the dateset
+The aim or task of this coding challenge is to create a pipeline from clustering to classification. We use unlabeled dataset and utilise unsupervised clustering algorithm to label the data and then apply supervised classification models on the dateset
 
 Data Set : Online Rental Dataset
 For this task I am using Online Rental Data set from UCI machine learning algorithm
