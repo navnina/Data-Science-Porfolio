@@ -12,4 +12,5 @@ The Dataset consists of the purchasing transactions occurring between 01/12/2010
 
 This dataset is interesting because it gives me some scope of applying many pre processing steps such as handing missing values, outlier detection, balancing unbalanced data etc. It also gives me a scope to apply some creative feature engineering for the customer segmentation.
 
+## Pipeline
 ![.](schema.jpg)
